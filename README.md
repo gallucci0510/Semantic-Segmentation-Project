@@ -3,4 +3,4 @@ This project focuses on training a neural network to classify various semantic l
 
 To address domain shift issues, we applied several data augmentation techniques and utilized advanced methods like Fourier Domain Adaptation (FDA) and Domain Adaptation via Cross-domain Mixed Sampling (DACS).
 
-The project was carried out by Nicola Bavaro, Lorenzo Gargasole, and myself Guillermo Jose' Gallucci, all students at the Politecnico di Torino. The neural models and utils.py were provided by the course's teaching assistants.
+The project was carried out by Nicola Bavaro, Lorenzo Gargasole, and myself Guillermo Jose' Gallucci. The neural models and utils.py were provided by the course's teaching assistants.
